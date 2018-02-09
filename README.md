@@ -5,9 +5,9 @@
 > Module to call native TDLib functions
 
 
-## Warning
+## FFI
 
-"ffi" module doesn't compile on node <= 9 (see https://github.com/node-ffi/node-ffi/pull/439)
+"ffi" module changed to "ffi-napi" for compatibility with node.js >= 9.0.0
 
 ## Installation
 
