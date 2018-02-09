@@ -10,16 +10,16 @@
   "author": "k-egor-smirnov",
   "license": "MIT",
   "dependencies": {
-    "ffi": "^2.2.0"
+    "ffi-napi": "^2.4.0"
   },
   "devDependencies": {
     "standard": "^10.0.3"
   },
   "engineStrict": true,
   "engines": {
-    "node": "<9.0.0"
+    "node": ">9.0.0"
   },
   "repository": {
-    "url": "https://github.com/k-egor-smirnov/node-tg-native"
+    "url": "https://github.com/alt3rmann/node-tg-native"
   }
 }
